@@ -1,7 +1,10 @@
 
 # Módulo IV PRIMERA PRÁCTICA 📝  
-En este se encuentra la primera practica semanal del modulo IV, para ejecutar el mismo siga los 
-siguientes pasos:
+En este se encuentra la primera practica semanal del modulo IV, la misma fue desarrollada por 
+`Sergio Omar Sandy Cordova`
+`Israel Rodrigo Rocha Romero`
+`Carmen Veronica Rodriguez Vaca`
+Para ejecutar el mismo siga los siguientes pasos:
 
 ## Paso 1
 ejecutar el siguiente comando para instalar los diferentes paquetes utilizados
